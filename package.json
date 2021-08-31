@@ -1,0 +1,28 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "node js pcat project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misagul/patika-PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "album",
+    "camera"
+  ],
+  "author": "M. Isa Gul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misagul/patika-PCAT/issues"
+  },
+  "homepage": "https://github.com/misagul/patika-PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
